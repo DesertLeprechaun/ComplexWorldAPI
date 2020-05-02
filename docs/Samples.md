@@ -1,6 +1,4 @@
 < [API Portal](https://forrester.demo.axway.com/api-catalog)
-# Samples
+# Complex World API
 
-The beginning of an awesome article...
-
-Before you start the samples make sure you check out the [Security documentation](security/Security.md)
+This is another great API from Axway, showcasing the complex scenarios that can easily be exposed as REST. Find out more [here](https://axway.stoplight-dev.com/docs/gh/lheritage/complexworldapi?group=master&utm_campaign=publish_dialog&utm_source=studio).
